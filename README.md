@@ -2,7 +2,7 @@
 
 
 ###+============================================+
-###| HelloBulb - Program "startowy" do zajęć.   |
+###  HelloBulb - Program "startowy" do zajęć.    
 ###+============================================+
 
 Program (trochę rozbudowane HelloWorld;) ma na celu przećwiczenie podstaw 
@@ -27,3 +27,5 @@ Reszta informacji, wyjaśnień na bieżąco na zajęciach...
 Pozdrawiam
 A.Ch.
 ===============================================================================
+
+[git - ściągi] (https://www.quora.com/What-is-the-best-Git-cheat-sheet)
